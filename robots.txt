@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ayyuceelf-png.github.io/elif--retmen/sitemap.xml
